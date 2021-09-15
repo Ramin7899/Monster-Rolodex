@@ -28,6 +28,7 @@ class App extends Component {
   handleChange = e => {
     this.setState({ searchField: e.target.value });
     console.log("wdwd");
+    console.log("wdwd");
   }
 
   render() {
